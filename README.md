@@ -2,10 +2,10 @@
 -  just after i passed my 12th grade.
 - 👀 I’m interested in programming, ethical Hacking, mathematics, ML & AI, computer-hardware, reading books, driving, music.
 - I can work with HTML, Css & Js
-- 🌱 I’m currently learning ...React
+- 🌱 I’m currently learning ...Js ( intermediate)
 - 💞️ I’m looking to collaborate on ... projects of my interests
 - 📫 How to reach me ...asrarmaqbool06@gmail.com
-- instagram (asrar_maqbool_06)
+ instagram @asrar_maqbool_06
 
 <!---
 asrar-codes/asrar-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
