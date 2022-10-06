@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ASRAR MAQBOOL</h1>
-<h3 align="center">FRONTEND WEB DEVELOPER</h3>
+<h3 align="center">FRONTEND WEB DEVLOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrar-codes&label=Profile%20views&color=0e75b6&style=flat" alt="asrar-codes" /> </p>
 
@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **projects of my domain**
 
-- 👨‍💻 All of my projects are available at [asrar-code.com](asrar-code.com)
+- 👨‍💻 All of my projects are available at [coming soon](asrar-code.com)
 
 - 💬 Ask me about **HTML, CSS, JS & REACT**
 
 - 📫 How to reach me **asrarmaqbool05@gmail.com**
 
-- ⚡ Fun fact **I want to mee you :)**
+- ⚡ Fun fact **sometimes i wonder how to meet you :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
