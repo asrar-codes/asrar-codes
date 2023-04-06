@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asrar-codes" alt="asrar-codes" /></a> </p>
 
-- 🔭 I’m working on **Js CART**
+- 🔭 I’m working on **Amazon clone using React**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning * React JS*
 
 - 👯 I’m looking to collaborate on **projects of my domain**
 
-- 👨‍💻 All of my projects are available at [coming soon](asrar-code.com)
+- 👨‍💻 Visit my portfolio [here](asrar-maqboo.hashnode.dev)
 
 - 💬 Ask me about **HTML, CSS, JS & REACT**
 
 - 📫 How to reach me **asrarmaqbool05@gmail.com**
 
-- ⚡ Fun fact **sometimes i wonder how to meet you :)**
+- ⚡ Fun fact ** I love programming that's why choose Bsc.Mathematics!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
