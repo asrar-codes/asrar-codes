@@ -7,9 +7,9 @@
 
 - 🔭 I’m working on **Amazon clone using React**
 
-- 🌱 I’m currently learning * React JS*
+- 🌱 I’m currently learning *DSA* 
 
-- 👯 I’m looking to collaborate on **projects of my domain**
+- 👯 I’m looking to collaborate on **projects that excite me 😍**
 
 - 👨‍💻 Visit my portfolio [here](asrar-maqboo.hashnode.dev)
 
