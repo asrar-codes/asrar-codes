@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asrar-codes" alt="asrar-codes" /></a> </p>
 
-- 🔭 I’m working on **Amazon clone using React**
+- 🔭  Currently I’m working on **[E_Commerce](asrar-maqboo.hashnode.dev) using React and Firebase**
 
 - 🌱 I’m currently learning *DSA* 
 
