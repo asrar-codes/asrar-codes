@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ASRAR MAQBOOL</h1>
-<h3 align="center">Full-Stack WEB DEVLOPER</h3>
+<h3 align="center">FULL-STACK WEB DEVLOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrar-codes&label=Profile%20views&color=0e75b6&style=flat" alt="asrar-codes" /> </p>
 
