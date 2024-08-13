@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm ASRAR MAQBOOL</h1>
-<h3 align="center">FRONTEND WEB DEVLOPER</h3>
+<h3 align="center">Full-Stack WEB DEVLOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrar-codes&label=Profile%20views&color=0e75b6&style=flat" alt="asrar-codes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asrar-codes" alt="asrar-codes" /></a> </p>
 
-- 🔭  Currently I’m working on ** youtube backend using Node and MongoDb**
+- 🔭  Currently I’m working on *fullstack e commerce website* (repo name:____)
 
 - 🌱 I’m currently learning *DSA* 
 
 - 👯 I’m looking to collaborate on **projects that excite me 😍**
 
-- 👨‍💻 Visit my portfolio [here](asrar-maqboo.hashnode.dev)
+- 👨‍💻 I'm currently building projects for portfolio ( check them here) 
 
-- 💬 Ask me about **HTML, CSS, JS & REACT**
+- 💬 Ask me about **HTML, CSS, JS, REACT, NODE, DSA**
 
 - 📫 How to reach me **asrarmaqbool05@gmail.com**
 
-- ⚡ Fun fact ** I love programming that's why choose Bsc.Mathematics!**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
