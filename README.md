@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asrar-codes" alt="asrar-codes" /></a> </p>
 
-- 🔭  Currently I’m working on *fullstack e commerce website* (repo name:____)
+- 🔭  Currently I’m working on *Chat Applicaion * 
 
 - 🌱 I’m currently learning *DSA* 
 
